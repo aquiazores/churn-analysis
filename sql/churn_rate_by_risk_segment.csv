@@ -1,0 +1,4 @@
+risk_segment,customer_count,churned_count,churn_rate
+High,1850,994,53.73
+Low,1934,111,5.74
+Medium,3259,764,23.44

@@ -1,0 +1,5 @@
+tenure_group,customer_count,churned_count,churn_rate
+New,2186,1037,47.44
+Established,1024,294,28.71
+Loyal,1594,325,20.39
+Veteran,2239,213,9.51
